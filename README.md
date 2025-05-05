@@ -10,7 +10,7 @@ A Python tool to encrypt/decrypt images by inverting RGB pixel values. Built dur
 ## How to Use  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/yourusername/PRODIGY_CS_02.git
+   git clone https://github.com/ShUmair07/PRODIGY_CS_02.git
    
 2. **Install dependencies**:  
    ```bash  
